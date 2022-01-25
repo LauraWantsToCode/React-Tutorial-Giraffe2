@@ -1,0 +1,10 @@
+/* the stylesheet needs to be imported into JS - index.js*/
+
+* {
+    font-size: 1.1rem; 
+}
+
+button {
+    width: 100px; 
+    padding: 5px solid blue;
+}
